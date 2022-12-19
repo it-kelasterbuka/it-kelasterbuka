@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
 (https://www.instagram.com/it.kelasterbuka/?igshid=YmMyMTA2M2Y%3D)
 
 # 💻 Tech Stack:
